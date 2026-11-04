@@ -87,16 +87,14 @@ With a unique blend of **MBA (HR & Marketing)** and **B.Tech (Civil Engineering)
 
 <div align="center">
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Office Suite](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Naukri](https://img.shields.io/badge/Naukri-4A90E2?style=for-the-badge)
 ![Indeed](https://img.shields.io/badge/Indeed-2557A7?style=for-the-badge&logo=indeed&logoColor=white)
 ![ATS](https://img.shields.io/badge/Applicant_Tracking_Systems-6D28D9?style=for-the-badge)
 ![HRIS](https://img.shields.io/badge/HRIS_%26_HRMS-EC4899?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
