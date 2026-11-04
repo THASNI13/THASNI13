@@ -117,11 +117,11 @@ With a unique blend of **MBA (HR & Marketing)** and **B.Tech (Civil Engineering)
 
 <!-- ✏️ EDIT: Replace the sample entries below with your actual certifications -->
 
-- 🏅 **[ HR Analytics ]** – *Udemy* 
-- 🏅 **[Maestro Recruiter]** – *Naukri* 
-- 🏅 **[Keka Hire ATS]** – *Keka*
-- 🏅 **[SAP HR]** – *Udemy*
-- 🏅 **[Data Driven HR AI – Workforce Planning & Employee Experience]** – *SHRM*
+- 🏅 [HR Analytics ]** – *Udemy* 
+- 🏅 [Maestro Recruiter]** – *Naukri* 
+- 🏅 [Keka Hire ATS]** – *Keka*
+- 🏅 [SAP HR]** – *Udemy*
+- 🏅 [Data Driven HR AI – Workforce Planning & Employee Experience]** – *SHRM*
   
 <sub>💡 Ideas: HR Analytics, Talent Acquisition, Labour Law & Compliance, Payroll Management, Excel / Power BI.</sub>
 
